@@ -4,32 +4,50 @@ html {
 
 body {
     background-color: whitesmoke;
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 2.5px solid whitesmoke;
+}
+
+.main-div{
+    padding: 2px 15px 3px 15px;
 }
 
 .purple-div {
     background-color: #672082;
+    padding: 2px 9px 3px 9px;
 }
 
 .orange-div {
     background-color: #f80;
+    padding: 2px 9px 3px 9px;
 }
 
 .font-sans {
     font-family: sans-serif;
-  }
+}
 
 .font-serif {
-    font-family: serif;
-  }
+    font-family: Georgia, 'Times New Roman', Times, serif;;
+}
 
-  .purple-text {
-    color: #672082;
-  }
+.font-code{
+    font-family:'Courier New', Courier, monospace;
+}
 
-  .orange-text {
+.purple-text {
+   color: #672082;
+}
+
+.orange-text {
     color: #f80;
-  }
+}
 
-  .white-text {
+.white-text {
     color: whitesmoke;
-  }
+}
+
+.centered-text {
+    text-align: center;
+}
