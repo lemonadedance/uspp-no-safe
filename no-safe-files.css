@@ -1,0 +1,35 @@
+html {
+    background-color: black;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.purple-div {
+    background-color: #672082;
+}
+
+.orange-div {
+    background-color: #f80;
+}
+
+.font-sans {
+    font-family: sans-serif;
+  }
+
+.font-serif {
+    font-family: serif;
+  }
+
+  .purple-text {
+    color: #672082;
+  }
+
+  .orange-text {
+    color: #f80;
+  }
+
+  .white-text {
+    color: whitesmoke;
+  }
